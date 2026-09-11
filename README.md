@@ -1,6 +1,10 @@
-# PawPal+ (Module 2 Project)
+# PawPal+ — care scheduling in Python
 
 **PawPal+** is a smart pet care management system that helps owners keep their furry friends happy and healthy. It tracks daily routines — feedings, walks, medications, and appointments — while using algorithmic logic to organize and prioritize tasks.
+
+CodePath AI110 coursework. Session state persists only within the running Streamlit session; this is not a medical decision system or a durable account database.
+
+Run `python -m pytest -q` for the scheduling tests; CI runs without external services.
 
 ## Features
 
